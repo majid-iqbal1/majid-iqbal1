@@ -1,7 +1,7 @@
 
 # Hi, I'm Majid 👋
 
-** About:**
+### 📄 About
 - I am currently a full-time senior student at the University of Washington Bothell, majoring in Computer Science and Software Engineering. I am excited to collaborate on innovative projects where I can apply my skills and continue learning alongside others who are passionate about technology.
 
 **🌱 Currently Learning:** 
