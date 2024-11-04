@@ -1,12 +1,9 @@
 
 # Hi, I'm Majid 👋
 
-### 📄 About
 - I am currently a full-time senior student at the University of Washington Bothell, majoring in Computer Science and Software Engineering. I am excited to collaborate on innovative projects where I can apply my skills and continue learning alongside others who are passionate about technology.
 
-**🌱 Currently Learning:** 
-- Currently learning some web development languages and tools: React, Node.js, typescript, firebase, Vercel, 
-
+- I am currently learning some web development languages and tools: React, Node.js, typescript, firebase, Vercel
 
 **📫 How to Reach Me:** 
 - [LinkedIn](https://www.linkedin.com/in/majid-iqbal10/), [Email](mailto:majidi2@uw.edu)
