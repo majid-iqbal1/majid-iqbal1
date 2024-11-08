@@ -20,7 +20,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 
 ![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=majid-iqbal1&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=majid-iqbal1&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=majid-iqbal1&theme=radical)
+
 
 ### 📫 Get in Touch
 ---
