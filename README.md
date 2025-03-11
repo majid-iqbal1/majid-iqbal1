@@ -4,7 +4,7 @@
 I'm a senior Computer Science and Software Engineering student at the University of Washington Bothell, passionate about technology and innovative solutions. Currently exploring web development technologies and always eager to learn and collaborate on exciting projects.
 
 ### 🌱 Current Focus
-- Expanding my web development skills with React, Node.js, TypeScript, and Firebase
+- Expanding my web development skills with React, Node.js, & TypeScript.
 - Seeking opportunities to collaborate on innovative projects
 - Building a strong foundation in software engineering principles
 
